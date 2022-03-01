@@ -4,8 +4,8 @@
 // // form.prepend(app)
 // app.appendChild(formClone)
 
-import { ProjectInput } from './components/projectInput.js';
-import { ProjectList } from './components/projectList.js';
+import { ProjectInput } from './components/projectInput';
+import { ProjectList } from './components/projectList';
 
 // const projectList = document.getElementById('project-list')! as HTMLTemplateElement;
 // const projectListClone = projectList.content.cloneNode(true);
